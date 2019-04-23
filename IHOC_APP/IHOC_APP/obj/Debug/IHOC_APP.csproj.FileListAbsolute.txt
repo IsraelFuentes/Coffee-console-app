@@ -1,0 +1,10 @@
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\bin\Debug\IHOC_APP.exe.config
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\bin\Debug\IHOC_APP.exe
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\bin\Debug\IHOC_APP.pdb
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\bin\Debug\CoffeLibrary.dll
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\bin\Debug\CoffeLibrary.pdb
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\obj\Debug\IHOC_APP.csprojAssemblyReference.cache
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\obj\Debug\IHOC_APP.csproj.CoreCompileInputs.cache
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\obj\Debug\IHOC_APP.csproj.CopyComplete
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\obj\Debug\IHOC_APP.exe
+C:\Users\israel\source\repos\IHOC_APP\IHOC_APP\obj\Debug\IHOC_APP.pdb
